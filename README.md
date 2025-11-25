@@ -14,7 +14,8 @@ This project analyzes the PaySim financial transactions dataset and builds a com
 
 ## **📁 Main Files**
 - `paysim_fraud_detection_end_to_end.ipynb` – full cleaning + modeling notebook  
-- `paysim_cleaned.csv` – processed dataset  
+- `paysim_cleaned.csv` – processed dataset  ( https://drive.google.com/drive/folders/1P75-RvDGMhvh-W9W-M5AyDc1DxwcPJ8G?dmr=1&ec=wgc-drive-hero-goto)
+- `paysim_transactions.csv` (https://drive.google.com/drive/folders/1P75-RvDGMhvh-W9W-M5AyDc1DxwcPJ8G?dmr=1&ec=wgc-drive-hero-goto )
 - `sql_queries.sql` – SQL analysis queries  
 - `paysim_dashboard.pbix` – Power BI dashboard  
 - `fraud_detection_model.pkl` – saved ML model  
